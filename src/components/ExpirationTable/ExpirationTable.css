@@ -1,0 +1,52 @@
+table {
+    justify-content: center;
+    border-collapse: collapse;
+    margin: auto;
+    width: auto;
+    margin: 100px auto;
+}
+
+caption {
+    background-color: #228be6;
+    padding: 5px 20px;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+thead {
+    background-color: #adb5bd;
+    border-color: red;
+}
+
+table th {
+    font-size: 18px;
+    padding: 0 1rem;
+    height: 50px;
+    border: 1px solid #999;
+}
+
+td {
+    font-size: 18px;
+    height: 65px;
+    padding: 0px 10px;
+    border-collapse: separate;
+    border-spacing: 50px;
+    border: 1px solid #999
+}
+
+table tbody:nth-of-type(odd)
+{
+    background-color: #dee2e6;
+}
+
+.expired {
+    background-color: #ff6b6b;
+}
+
+.about-to-expire {
+    background-color: #ffe066;
+}
+
+.active {
+    background-color: transparent;
+}
