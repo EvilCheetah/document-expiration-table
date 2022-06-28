@@ -6,8 +6,6 @@ import { TableRow } from "./TableRow";
 
 export function TableBody({ vehicles }: any)
 {
-    console.log(vehicles)
-
     return (
         <>
         {
