@@ -1,1 +1,746 @@
-[{"unit_id": "a096ed6f6f77f99305c002f78c0816576731697a", "unit_number": "188", "drivers": [{"id": "289-95-5591", "name": {"first": "Jennifer", "middle": "W.", "last": "Smith"}, "date_of_birth": "1958-08-22", "driver_license": {"expiration": "2022-08-20"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2023-02-02"}}, {"id": "188-42-1241", "name": {"first": "Shannon", "middle": "N.", "last": "Love"}, "date_of_birth": "1978-02-11", "driver_license": {"expiration": "2022-10-23"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-01-31", "annual_inspection": "2022-10-14", "insurance": {"general": "2023-02-09", "cargo": "2022-08-14", "liability": "2023-05-10", "auto": "2023-06-04"}}, {"unit_id": "dea9986f17986376f6785f7b8849d1a89eeee901", "unit_number": "285", "drivers": [{"id": "078-32-2263", "name": {"first": "Taylor", "middle": "S.", "last": "Simmons"}, "date_of_birth": "1982-07-25", "driver_license": {"expiration": "2022-10-07"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2022-07-10"}}], "registration": "2022-10-21", "annual_inspection": "2022-12-27", "insurance": {"general": "2022-12-23", "cargo": "2023-04-28", "liability": "2022-11-17", "auto": "2022-10-31"}}, {"unit_id": "5322bf90e1387e2775dedecb1296ac73f5b9f5bf", "unit_number": "320", "drivers": [{"id": "694-38-5524", "name": {"first": "Justin", "middle": "B.", "last": "Campbell"}, "date_of_birth": "2002-09-09", "driver_license": {"expiration": "2023-05-11"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2022-10-15"}}, {"id": "005-71-4755", "name": {"first": "Katherine", "middle": "S.", "last": "Hunt"}, "date_of_birth": "1966-09-04", "driver_license": {"expiration": "2022-08-15"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-03-05", "annual_inspection": "2023-06-01", "insurance": {"general": "2023-05-13", "cargo": "2022-12-03", "liability": "2022-09-22", "auto": "2023-06-18"}}, {"unit_id": "6859143e75b9f8633fcbf3cc2ca3e3b2f6eb4a43", "unit_number": "222", "drivers": [{"id": "243-63-4675", "name": {"first": "Allison", "middle": "V.", "last": "Cortez"}, "date_of_birth": "1996-01-21", "driver_license": {"expiration": "2022-07-20"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2022-10-02"}}, {"id": "776-82-2120", "name": {"first": "Crystal", "middle": "S.", "last": "Bray"}, "date_of_birth": "1987-05-12", "driver_license": {"expiration": "2022-12-06"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2023-05-08"}}], "registration": "2022-08-01", "annual_inspection": "2023-03-18", "insurance": {"general": "2022-08-18", "cargo": "2022-08-11", "liability": "2023-04-08", "auto": "2022-12-08"}}, {"unit_id": "6962c320fa54d0efd36d3cd6df16e1ec55e69253", "unit_number": "487", "drivers": [{"id": "845-07-5426", "name": {"first": "Sarah", "middle": "U.", "last": "Gomez"}, "date_of_birth": "1979-02-20", "driver_license": {"expiration": "2022-11-15"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}, {"id": "240-81-3595", "name": {"first": "Andrea", "middle": "F.", "last": "Drake"}, "date_of_birth": "1993-03-29", "driver_license": {"expiration": "2022-08-02"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-05-03", "annual_inspection": "2023-04-24", "insurance": {"general": "2023-05-29", "cargo": "2023-01-12", "liability": "2022-08-20", "auto": "2022-09-27"}}, {"unit_id": "50b93409b5111bbf040e94006b42722256fee9f8", "unit_number": "350", "drivers": [{"id": "523-21-3809", "name": {"first": "Jennifer", "middle": "N.", "last": "Evans"}, "date_of_birth": "1997-05-07", "driver_license": {"expiration": "2022-12-09"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2022-06-24"}}], "registration": "2023-01-14", "annual_inspection": "2023-01-27", "insurance": {"general": "2022-08-22", "cargo": "2023-05-08", "liability": "2023-04-05", "auto": "2022-12-16"}}, {"unit_id": "114170a8cc450a1bc7f796cb6bcb870c93cd5683", "unit_number": "919", "drivers": [{"id": "417-47-3264", "name": {"first": "Michael", "middle": "F.", "last": "Stewart"}, "date_of_birth": "1972-01-26", "driver_license": {"expiration": "2023-03-26"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2022-09-21"}}, {"id": "778-23-4007", "name": {"first": "Jeff", "middle": "F.", "last": "Thomas"}, "date_of_birth": "1992-01-07", "driver_license": {"expiration": "2022-10-15"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-01-27", "annual_inspection": "2023-01-10", "insurance": {"general": "2022-08-21", "cargo": "2023-06-22", "liability": "2023-02-19", "auto": "2023-04-30"}}, {"unit_id": "61891f9cb5a4e1beb6c067b274002b5db37b127d", "unit_number": "753", "drivers": [{"id": "396-29-8147", "name": {"first": "Lee", "middle": "B.", "last": "Holt"}, "date_of_birth": "1962-10-31", "driver_license": {"expiration": "2022-10-13"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2023-03-14"}}], "registration": "2022-11-24", "annual_inspection": "2022-10-20", "insurance": {"general": "2023-01-19", "cargo": "2023-05-27", "liability": "2022-08-23", "auto": "2022-08-10"}}, {"unit_id": "1b0902dc66bdbb9233628a9a23a9fed26d73b4f4", "unit_number": "290", "drivers": [{"id": "834-77-4231", "name": {"first": "Michael", "middle": "A.", "last": "Martinez"}, "date_of_birth": "1984-02-19", "driver_license": {"expiration": "2023-01-08"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2022-10-22", "annual_inspection": "2023-05-29", "insurance": {"general": "2022-12-27", "cargo": "2022-10-12", "liability": "2022-12-19", "auto": "2022-10-11"}}, {"unit_id": "c2756496d987a97d91494b5fb6f836692cd77481", "unit_number": "654", "drivers": [{"id": "160-35-3113", "name": {"first": "Mark", "middle": "C.", "last": "Walsh"}, "date_of_birth": "1964-11-02", "driver_license": {"expiration": "2022-11-18"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2023-04-13"}}], "registration": "2023-03-14", "annual_inspection": "2023-02-24", "insurance": {"general": "2022-06-24", "cargo": "2023-02-12", "liability": "2022-11-23", "auto": "2023-01-06"}}, {"unit_id": "74f2179aca99bdb5a1c259cf5f9ba73d890e75ba", "unit_number": "794", "drivers": [{"id": "218-48-0963", "name": {"first": "Gregory", "middle": "P.", "last": "Roberts"}, "date_of_birth": "1966-08-03", "driver_license": {"expiration": "2023-06-18"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-03-17", "annual_inspection": "2022-11-20", "insurance": {"general": "2023-01-31", "cargo": "2023-03-12", "liability": "2023-02-16", "auto": "2023-04-27"}}, {"unit_id": "4514e74bbbf0544705b87dddaa2c41960f2b2437", "unit_number": "065", "drivers": [{"id": "466-32-0405", "name": {"first": "Cynthia", "middle": "B.", "last": "Krueger"}, "date_of_birth": "1977-04-21", "driver_license": {"expiration": "2023-03-26"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}, {"id": "833-50-8921", "name": {"first": "James", "middle": "R.", "last": "Hess"}, "date_of_birth": "1970-06-09", "driver_license": {"expiration": "2022-09-26"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2023-03-14"}}], "registration": "2023-04-17", "annual_inspection": "2022-09-13", "insurance": {"general": "2023-06-19", "cargo": "2022-11-22", "liability": "2022-08-04", "auto": "2022-12-01"}}, {"unit_id": "36c731feb02e7c526ee57655e1dd94d99b330f21", "unit_number": "870", "drivers": [{"id": "345-68-3056", "name": {"first": "Misty", "middle": "B.", "last": "Kim"}, "date_of_birth": "1991-06-07", "driver_license": {"expiration": "2023-05-17"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}, {"id": "229-48-9830", "name": {"first": "Joshua", "middle": "M.", "last": "Foster"}, "date_of_birth": "1997-12-18", "driver_license": {"expiration": "2023-06-02"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-02-05", "annual_inspection": "2023-03-22", "insurance": {"general": "2022-11-07", "cargo": "2022-11-05", "liability": "2023-05-26", "auto": "2022-10-19"}}, {"unit_id": "986cce251317aa0b647072307ee83690a3f372b1", "unit_number": "420", "drivers": [{"id": "231-19-8208", "name": {"first": "Michael", "middle": "K.", "last": "Schneider"}, "date_of_birth": "2002-02-04", "driver_license": {"expiration": "2022-12-29"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2023-05-11"}}], "registration": "2022-09-16", "annual_inspection": "2022-07-18", "insurance": {"general": "2022-08-24", "cargo": "2023-03-28", "liability": "2022-11-22", "auto": "2022-08-31"}}, {"unit_id": "27950943d6bb9d326e394f0d6b49dfff0c15c0d6", "unit_number": "134", "drivers": [{"id": "100-61-8290", "name": {"first": "Alyssa", "middle": "P.", "last": "Adkins"}, "date_of_birth": "2003-01-07", "driver_license": {"expiration": "2022-12-09"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2022-08-04"}}], "registration": "2023-01-09", "annual_inspection": "2022-09-22", "insurance": {"general": "2022-10-27", "cargo": "2023-05-08", "liability": "2023-02-12", "auto": "2022-11-30"}}, {"unit_id": "5d4e3742bfb1a8e28376ec610dc39a8fb90fc627", "unit_number": "782", "drivers": [{"id": "334-24-4965", "name": {"first": "Eric", "middle": "D.", "last": "Taylor"}, "date_of_birth": "1987-10-31", "driver_license": {"expiration": "2022-09-09"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}, {"id": "154-59-6899", "name": {"first": "Thomas", "middle": "J.", "last": "Gonzalez"}, "date_of_birth": "1982-03-26", "driver_license": {"expiration": "2022-10-29"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2022-10-25"}}], "registration": "2023-05-16", "annual_inspection": "2023-02-22", "insurance": {"general": "2023-04-22", "cargo": "2023-03-22", "liability": "2022-09-08", "auto": "2022-08-11"}}, {"unit_id": "f183f2cc0e587c79f6a344b6039d84e120b68335", "unit_number": "636", "drivers": [{"id": "811-17-3426", "name": {"first": "Theresa", "middle": "Z.", "last": "Wilkins"}, "date_of_birth": "1995-04-17", "driver_license": {"expiration": "2023-05-29"}, "work_authorization": {"document_type": "Green Card", "expiration_date": "2022-09-24"}}], "registration": "2022-07-01", "annual_inspection": "2022-07-03", "insurance": {"general": "2022-09-13", "cargo": "2022-11-15", "liability": "2023-04-11", "auto": "2023-05-05"}}, {"unit_id": "e7da4e9eecb3eb86d9ac8c8c1de3a791c8eeaed8", "unit_number": "994", "drivers": [{"id": "718-54-9617", "name": {"first": "Heather", "middle": "P.", "last": "Anderson"}, "date_of_birth": "1977-05-06", "driver_license": {"expiration": "2023-04-03"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2022-07-06"}}, {"id": "475-34-8796", "name": {"first": "Marcus", "middle": "O.", "last": "Hayes"}, "date_of_birth": "1983-02-05", "driver_license": {"expiration": "2023-05-21"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2022-09-03"}}], "registration": "2023-05-28", "annual_inspection": "2023-02-24", "insurance": {"general": "2023-03-17", "cargo": "2022-09-27", "liability": "2022-12-20", "auto": "2023-01-28"}}, {"unit_id": "3c2c486c8afd2d574bc8ce1a292d857647580dbe", "unit_number": "714", "drivers": [{"id": "230-03-6953", "name": {"first": "Marc", "middle": "U.", "last": "Andrews"}, "date_of_birth": "1996-05-25", "driver_license": {"expiration": "2023-06-21"}, "work_authorization": {"document_type": "Work Authorization", "expiration_date": "2022-12-07"}}, {"id": "167-09-3836", "name": {"first": "Wesley", "middle": "E.", "last": "Henderson"}, "date_of_birth": "1972-01-26", "driver_license": {"expiration": "2023-01-16"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2023-06-16", "annual_inspection": "2022-06-25", "insurance": {"general": "2022-11-01", "cargo": "2022-08-13", "liability": "2022-10-31", "auto": "2023-05-23"}}, {"unit_id": "79fcf814aa8ea58cf9b37394b5c5594f38fb401f", "unit_number": "045", "drivers": [{"id": "863-72-1427", "name": {"first": "Peter", "middle": "K.", "last": "Nelson"}, "date_of_birth": "1978-09-12", "driver_license": {"expiration": "2023-04-06"}, "work_authorization": {"document_type": "Citizenship", "expiration_date": null}}], "registration": "2022-07-28", "annual_inspection": "2023-02-14", "insurance": {"general": "2022-09-15", "cargo": "2022-10-20", "liability": "2023-06-04", "auto": "2023-04-20"}}]
+[
+    {
+        "unit_id": "a096ed6f6f77f99305c002f78c0816576731697a",
+        "unit_number": "188",
+        "drivers": [
+            {
+                "id": "289-95-5591",
+                "name": {
+                    "first": "Jennifer",
+                    "middle": "W.",
+                    "last": "Smith"
+                },
+                "date_of_birth": "1958-08-22",
+                "driver_license": {
+                    "expiration": "2022-08-20"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2023-02-02"
+                }
+            },
+            {
+                "id": "188-42-1241",
+                "name": {
+                    "first": "Shannon",
+                    "middle": "N.",
+                    "last": "Love"
+                },
+                "date_of_birth": "1978-02-11",
+                "driver_license": {
+                    "expiration": "2022-10-23"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-01-31",
+        "annual_inspection": "2022-10-14",
+        "insurance": {
+            "general": "2023-02-09",
+            "cargo": "2022-08-14",
+            "liability": "2023-05-10",
+            "auto": "2023-06-04"
+        }
+    },
+    {
+        "unit_id": "dea9986f17986376f6785f7b8849d1a89eeee901",
+        "unit_number": "285",
+        "drivers": [
+        ],
+        "registration": "2022-10-21",
+        "annual_inspection": "2022-12-27",
+        "insurance": {
+            "general": "2022-12-23",
+            "cargo": "2023-04-28",
+            "liability": "2022-11-17",
+            "auto": "2022-10-31"
+        }
+    },
+    {
+        "unit_id": "5322bf90e1387e2775dedecb1296ac73f5b9f5bf",
+        "unit_number": "320",
+        "drivers": [
+            {
+                "id": "694-38-5524",
+                "name": {
+                    "first": "Justin",
+                    "middle": "B.",
+                    "last": "Campbell"
+                },
+                "date_of_birth": "2002-09-09",
+                "driver_license": {
+                    "expiration": "2023-05-11"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2022-10-15"
+                }
+            },
+            {
+                "id": "005-71-4755",
+                "name": {
+                    "first": "Katherine",
+                    "middle": "S.",
+                    "last": "Hunt"
+                },
+                "date_of_birth": "1966-09-04",
+                "driver_license": {
+                    "expiration": "2022-08-15"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-03-05",
+        "annual_inspection": "2023-06-01",
+        "insurance": {
+            "general": "2023-05-13",
+            "cargo": "2022-12-03",
+            "liability": "2022-09-22",
+            "auto": "2023-06-18"
+        }
+    },
+    {
+        "unit_id": "6859143e75b9f8633fcbf3cc2ca3e3b2f6eb4a43",
+        "unit_number": "222",
+        "drivers": [
+            {
+                "id": "243-63-4675",
+                "name": {
+                    "first": "Allison",
+                    "middle": "V.",
+                    "last": "Cortez"
+                },
+                "date_of_birth": "1996-01-21",
+                "driver_license": {
+                    "expiration": "2022-07-20"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2022-10-02"
+                }
+            },
+            {
+                "id": "776-82-2120",
+                "name": {
+                    "first": "Crystal",
+                    "middle": "S.",
+                    "last": "Bray"
+                },
+                "date_of_birth": "1987-05-12",
+                "driver_license": {
+                    "expiration": "2022-12-06"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2023-05-08"
+                }
+            }
+        ],
+        "registration": "2022-08-01",
+        "annual_inspection": "2023-03-18",
+        "insurance": {
+            "general": "2022-08-18",
+            "cargo": "2022-08-11",
+            "liability": "2023-04-08",
+            "auto": "2022-12-08"
+        }
+    },
+    {
+        "unit_id": "6962c320fa54d0efd36d3cd6df16e1ec55e69253",
+        "unit_number": "487",
+        "drivers": [
+            {
+                "id": "845-07-5426",
+                "name": {
+                    "first": "Sarah",
+                    "middle": "U.",
+                    "last": "Gomez"
+                },
+                "date_of_birth": "1979-02-20",
+                "driver_license": {
+                    "expiration": "2022-11-15"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            },
+            {
+                "id": "240-81-3595",
+                "name": {
+                    "first": "Andrea",
+                    "middle": "F.",
+                    "last": "Drake"
+                },
+                "date_of_birth": "1993-03-29",
+                "driver_license": {
+                    "expiration": "2022-08-02"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-05-03",
+        "annual_inspection": "2023-04-24",
+        "insurance": {
+            "general": "2023-05-29",
+            "cargo": "2023-01-12",
+            "liability": "2022-08-20",
+            "auto": "2022-09-27"
+        }
+    },
+    {
+        "unit_id": "50b93409b5111bbf040e94006b42722256fee9f8",
+        "unit_number": "350",
+        "drivers": [
+            {
+                "id": "523-21-3809",
+                "name": {
+                    "first": "Jennifer",
+                    "middle": "N.",
+                    "last": "Evans"
+                },
+                "date_of_birth": "1997-05-07",
+                "driver_license": {
+                    "expiration": "2022-12-09"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2022-06-24"
+                }
+            }
+        ],
+        "registration": "2023-01-14",
+        "annual_inspection": "2023-01-27",
+        "insurance": {
+            "general": "2022-08-22",
+            "cargo": "2023-05-08",
+            "liability": "2023-04-05",
+            "auto": "2022-12-16"
+        }
+    },
+    {
+        "unit_id": "114170a8cc450a1bc7f796cb6bcb870c93cd5683",
+        "unit_number": "919",
+        "drivers": [
+            {
+                "id": "417-47-3264",
+                "name": {
+                    "first": "Michael",
+                    "middle": "F.",
+                    "last": "Stewart"
+                },
+                "date_of_birth": "1972-01-26",
+                "driver_license": {
+                    "expiration": "2023-03-26"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2022-09-21"
+                }
+            },
+            {
+                "id": "778-23-4007",
+                "name": {
+                    "first": "Jeff",
+                    "middle": "F.",
+                    "last": "Thomas"
+                },
+                "date_of_birth": "1992-01-07",
+                "driver_license": {
+                    "expiration": "2022-10-15"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-01-27",
+        "annual_inspection": "2023-01-10",
+        "insurance": {
+            "general": "2022-08-21",
+            "cargo": "2023-06-22",
+            "liability": "2023-02-19",
+            "auto": "2023-04-30"
+        }
+    },
+    {
+        "unit_id": "61891f9cb5a4e1beb6c067b274002b5db37b127d",
+        "unit_number": "753",
+        "drivers": [
+            {
+                "id": "396-29-8147",
+                "name": {
+                    "first": "Lee",
+                    "middle": "B.",
+                    "last": "Holt"
+                },
+                "date_of_birth": "1962-10-31",
+                "driver_license": {
+                    "expiration": "2022-10-13"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2023-03-14"
+                }
+            }
+        ],
+        "registration": "2022-11-24",
+        "annual_inspection": "2022-10-20",
+        "insurance": {
+            "general": "2023-01-19",
+            "cargo": "2023-05-27",
+            "liability": "2022-08-23",
+            "auto": "2022-08-10"
+        }
+    },
+    {
+        "unit_id": "1b0902dc66bdbb9233628a9a23a9fed26d73b4f4",
+        "unit_number": "290",
+        "drivers": [
+            {
+                "id": "834-77-4231",
+                "name": {
+                    "first": "Michael",
+                    "middle": "A.",
+                    "last": "Martinez"
+                },
+                "date_of_birth": "1984-02-19",
+                "driver_license": {
+                    "expiration": "2023-01-08"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2022-10-22",
+        "annual_inspection": "2023-05-29",
+        "insurance": {
+            "general": "2022-12-27",
+            "cargo": "2022-10-12",
+            "liability": "2022-12-19",
+            "auto": "2022-10-11"
+        }
+    },
+    {
+        "unit_id": "c2756496d987a97d91494b5fb6f836692cd77481",
+        "unit_number": "654",
+        "drivers": [
+            {
+                "id": "160-35-3113",
+                "name": {
+                    "first": "Mark",
+                    "middle": "C.",
+                    "last": "Walsh"
+                },
+                "date_of_birth": "1964-11-02",
+                "driver_license": {
+                    "expiration": "2022-11-18"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2023-04-13"
+                }
+            }
+        ],
+        "registration": "2023-03-14",
+        "annual_inspection": "2023-02-24",
+        "insurance": {
+            "general": "2022-06-24",
+            "cargo": "2023-02-12",
+            "liability": "2022-11-23",
+            "auto": "2023-01-06"
+        }
+    },
+    {
+        "unit_id": "74f2179aca99bdb5a1c259cf5f9ba73d890e75ba",
+        "unit_number": "794",
+        "drivers": [
+            {
+                "id": "218-48-0963",
+                "name": {
+                    "first": "Gregory",
+                    "middle": "P.",
+                    "last": "Roberts"
+                },
+                "date_of_birth": "1966-08-03",
+                "driver_license": {
+                    "expiration": "2023-06-18"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-03-17",
+        "annual_inspection": "2022-11-20",
+        "insurance": {
+            "general": "2023-01-31",
+            "cargo": "2023-03-12",
+            "liability": "2023-02-16",
+            "auto": "2023-04-27"
+        }
+    },
+    {
+        "unit_id": "4514e74bbbf0544705b87dddaa2c41960f2b2437",
+        "unit_number": "065",
+        "drivers": [
+            {
+                "id": "466-32-0405",
+                "name": {
+                    "first": "Cynthia",
+                    "middle": "B.",
+                    "last": "Krueger"
+                },
+                "date_of_birth": "1977-04-21",
+                "driver_license": {
+                    "expiration": "2023-03-26"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            },
+            {
+                "id": "833-50-8921",
+                "name": {
+                    "first": "James",
+                    "middle": "R.",
+                    "last": "Hess"
+                },
+                "date_of_birth": "1970-06-09",
+                "driver_license": {
+                    "expiration": "2022-09-26"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2023-03-14"
+                }
+            }
+        ],
+        "registration": "2023-04-17",
+        "annual_inspection": "2022-09-13",
+        "insurance": {
+            "general": "2023-06-19",
+            "cargo": "2022-11-22",
+            "liability": "2022-08-04",
+            "auto": "2022-12-01"
+        }
+    },
+    {
+        "unit_id": "36c731feb02e7c526ee57655e1dd94d99b330f21",
+        "unit_number": "870",
+        "drivers": [
+            {
+                "id": "345-68-3056",
+                "name": {
+                    "first": "Misty",
+                    "middle": "B.",
+                    "last": "Kim"
+                },
+                "date_of_birth": "1991-06-07",
+                "driver_license": {
+                    "expiration": "2023-05-17"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            },
+            {
+                "id": "229-48-9830",
+                "name": {
+                    "first": "Joshua",
+                    "middle": "M.",
+                    "last": "Foster"
+                },
+                "date_of_birth": "1997-12-18",
+                "driver_license": {
+                    "expiration": "2023-06-02"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-02-05",
+        "annual_inspection": "2023-03-22",
+        "insurance": {
+            "general": "2022-11-07",
+            "cargo": "2022-11-05",
+            "liability": "2023-05-26",
+            "auto": "2022-10-19"
+        }
+    },
+    {
+        "unit_id": "986cce251317aa0b647072307ee83690a3f372b1",
+        "unit_number": "420",
+        "drivers": [
+            {
+                "id": "231-19-8208",
+                "name": {
+                    "first": "Michael",
+                    "middle": "K.",
+                    "last": "Schneider"
+                },
+                "date_of_birth": "2002-02-04",
+                "driver_license": {
+                    "expiration": "2022-12-29"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2023-05-11"
+                }
+            }
+        ],
+        "registration": "2022-09-16",
+        "annual_inspection": "2022-07-18",
+        "insurance": {
+            "general": "2022-08-24",
+            "cargo": "2023-03-28",
+            "liability": "2022-11-22",
+            "auto": "2022-08-31"
+        }
+    },
+    {
+        "unit_id": "27950943d6bb9d326e394f0d6b49dfff0c15c0d6",
+        "unit_number": "134",
+        "drivers": [
+            {
+                "id": "100-61-8290",
+                "name": {
+                    "first": "Alyssa",
+                    "middle": "P.",
+                    "last": "Adkins"
+                },
+                "date_of_birth": "2003-01-07",
+                "driver_license": {
+                    "expiration": "2022-12-09"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2022-08-04"
+                }
+            }
+        ],
+        "registration": "2023-01-09",
+        "annual_inspection": "2022-09-22",
+        "insurance": {
+            "general": "2022-10-27",
+            "cargo": "2023-05-08",
+            "liability": "2023-02-12",
+            "auto": "2022-11-30"
+        }
+    },
+    {
+        "unit_id": "5d4e3742bfb1a8e28376ec610dc39a8fb90fc627",
+        "unit_number": "782",
+        "drivers": [
+            {
+                "id": "334-24-4965",
+                "name": {
+                    "first": "Eric",
+                    "middle": "D.",
+                    "last": "Taylor"
+                },
+                "date_of_birth": "1987-10-31",
+                "driver_license": {
+                    "expiration": "2022-09-09"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            },
+            {
+                "id": "154-59-6899",
+                "name": {
+                    "first": "Thomas",
+                    "middle": "J.",
+                    "last": "Gonzalez"
+                },
+                "date_of_birth": "1982-03-26",
+                "driver_license": {
+                    "expiration": "2022-10-29"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2022-10-25"
+                }
+            }
+        ],
+        "registration": "2023-05-16",
+        "annual_inspection": "2023-02-22",
+        "insurance": {
+            "general": "2023-04-22",
+            "cargo": "2023-03-22",
+            "liability": "2022-09-08",
+            "auto": "2022-08-11"
+        }
+    },
+    {
+        "unit_id": "f183f2cc0e587c79f6a344b6039d84e120b68335",
+        "unit_number": "636",
+        "drivers": [
+            {
+                "id": "811-17-3426",
+                "name": {
+                    "first": "Theresa",
+                    "middle": "Z.",
+                    "last": "Wilkins"
+                },
+                "date_of_birth": "1995-04-17",
+                "driver_license": {
+                    "expiration": "2023-05-29"
+                },
+                "work_authorization": {
+                    "document_type": "Green Card",
+                    "expiration_date": "2022-09-24"
+                }
+            }
+        ],
+        "registration": "2022-07-01",
+        "annual_inspection": "2022-07-03",
+        "insurance": {
+            "general": "2022-09-13",
+            "cargo": "2022-11-15",
+            "liability": "2023-04-11",
+            "auto": "2023-05-05"
+        }
+    },
+    {
+        "unit_id": "e7da4e9eecb3eb86d9ac8c8c1de3a791c8eeaed8",
+        "unit_number": "994",
+        "drivers": [
+            {
+                "id": "718-54-9617",
+                "name": {
+                    "first": "Heather",
+                    "middle": "P.",
+                    "last": "Anderson"
+                },
+                "date_of_birth": "1977-05-06",
+                "driver_license": {
+                    "expiration": "2023-04-03"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2022-07-06"
+                }
+            },
+            {
+                "id": "475-34-8796",
+                "name": {
+                    "first": "Marcus",
+                    "middle": "O.",
+                    "last": "Hayes"
+                },
+                "date_of_birth": "1983-02-05",
+                "driver_license": {
+                    "expiration": "2023-05-21"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2022-09-03"
+                }
+            }
+        ],
+        "registration": "2023-05-28",
+        "annual_inspection": "2023-02-24",
+        "insurance": {
+            "general": "2023-03-17",
+            "cargo": "2022-09-27",
+            "liability": "2022-12-20",
+            "auto": "2023-01-28"
+        }
+    },
+    {
+        "unit_id": "3c2c486c8afd2d574bc8ce1a292d857647580dbe",
+        "unit_number": "714",
+        "drivers": [
+            {
+                "id": "230-03-6953",
+                "name": {
+                    "first": "Marc",
+                    "middle": "U.",
+                    "last": "Andrews"
+                },
+                "date_of_birth": "1996-05-25",
+                "driver_license": {
+                    "expiration": "2023-06-21"
+                },
+                "work_authorization": {
+                    "document_type": "Work Authorization",
+                    "expiration_date": "2022-12-07"
+                }
+            },
+            {
+                "id": "167-09-3836",
+                "name": {
+                    "first": "Wesley",
+                    "middle": "E.",
+                    "last": "Henderson"
+                },
+                "date_of_birth": "1972-01-26",
+                "driver_license": {
+                    "expiration": "2023-01-16"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2023-06-16",
+        "annual_inspection": "2022-06-25",
+        "insurance": {
+            "general": "2022-11-01",
+            "cargo": "2022-08-13",
+            "liability": "2022-10-31",
+            "auto": "2023-05-23"
+        }
+    },
+    {
+        "unit_id": "79fcf814aa8ea58cf9b37394b5c5594f38fb401f",
+        "unit_number": "045",
+        "drivers": [
+            {
+                "id": "863-72-1427",
+                "name": {
+                    "first": "Peter",
+                    "middle": "K.",
+                    "last": "Nelson"
+                },
+                "date_of_birth": "1978-09-12",
+                "driver_license": {
+                    "expiration": "2023-04-06"
+                },
+                "work_authorization": {
+                    "document_type": "Citizenship",
+                    "expiration_date": null
+                }
+            }
+        ],
+        "registration": "2022-07-28",
+        "annual_inspection": "2023-02-14",
+        "insurance": {
+            "general": "2022-09-15",
+            "cargo": "2022-10-20",
+            "liability": "2023-06-04",
+            "auto": "2023-04-20"
+        }
+    }
+]
