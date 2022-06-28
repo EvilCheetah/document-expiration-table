@@ -11,7 +11,6 @@ export function TableRow({ vehicle })
     const driver_entries    = (number_of_drivers < 2 ) ? 1 : vehicle.drivers.length;
 
     let [first_driver, ...other_drivers] = vehicle.drivers
-    console.log(typeof other_drivers);
 
     return (
         <>
