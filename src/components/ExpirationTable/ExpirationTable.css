@@ -17,7 +17,7 @@ th {
     border-right: 1px solid #868e96;
     border-bottom: 3px solid #868e96;
     font-size: 16px;
-    padding: 0 1.5rem;
+    min-width: auto;
     height: 50px;
     background-color: #1b1e24;
     color: #D5DDE5;
@@ -71,14 +71,20 @@ table tbody:nth-of-type(even)
     background-color: transparent;
 }
 
-.header-name {
-    vertical-align: middle;
-    display: inline-block;
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
 }
 
+.header-name {
+    margin: 5px 20px;
+}
+
+
 .sorting-state {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin: 0px 5px;
 }
