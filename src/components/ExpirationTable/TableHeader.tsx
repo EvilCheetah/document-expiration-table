@@ -32,8 +32,10 @@ export function TableHeader({ columns, setSortingValues })
                     { 
                         return (
                             <th key={accessor} onClick={() => update_sort_state(accessor, sorting_state)}>
-                                <span className="header-name">{label}</span>
-                                <span className="sorting-state">{get_sorting_icon(sorting_state)}</span>
+                                <div className="container">
+                                    <span className="header-name">{label}</span>
+                                    <span className="sorting-state">{get_sorting_icon(sorting_state)}</span>
+                                </div>
                             </th>
                         );
                     }
