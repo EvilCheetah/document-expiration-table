@@ -7,8 +7,9 @@ export function get_sorting_icon(state)
     if (!state)
         return <UnsortedSort />;
 
-    if (state === 'asc')
+    if (state === 'ascending')
         return <AscendingSort />;
 
+    /// Else: descending
     return <DescendingSort />
 }
