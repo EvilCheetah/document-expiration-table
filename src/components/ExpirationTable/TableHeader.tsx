@@ -2,7 +2,7 @@ import { get_sorting_icon } from "../../function/sorting-icon.function";
 import { get_new_sorting_state } from "../../function/sorting-state.function";
 
 
-export function TableHeader({ columns, setSortingValues })
+export function TableHeader({ columns, setSortingValues }: any)
 {
     function update_sort_state(accessor, state)
     {
