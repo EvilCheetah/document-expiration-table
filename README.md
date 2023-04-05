@@ -12,4 +12,4 @@ To view the visualization, run `npm start`.
 
 ## Access it in browser
 
-If you just want to take a look at he final result, i.e. deployed version, it can accessed on [GitHub Pages](https://evilcheetah.github.io/ReactJS-Document-Expiration-Table).
+If you just want to take a look at he final result, i.e. deployed version, it can accessed on [GitHub Pages](https://evilcheetah.github.io/document-expiration-table/).
