@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/document-expiration-table/static/css/main.85cf5c34.css",
-    "main.js": "/document-expiration-table/static/js/main.2c706a94.js",
-    "static/js/787.0a5a2590.chunk.js": "/document-expiration-table/static/js/787.0a5a2590.chunk.js",
-    "index.html": "/document-expiration-table/index.html",
-    "main.85cf5c34.css.map": "/document-expiration-table/static/css/main.85cf5c34.css.map",
-    "main.2c706a94.js.map": "/document-expiration-table/static/js/main.2c706a94.js.map",
-    "787.0a5a2590.chunk.js.map": "/document-expiration-table/static/js/787.0a5a2590.chunk.js.map"
+    "main.css": "/reactjs-document-expiration-report/static/css/main.85cf5c34.css",
+    "main.js": "/reactjs-document-expiration-report/static/js/main.b27daefa.js",
+    "static/js/365.15a5fb76.chunk.js": "/reactjs-document-expiration-report/static/js/365.15a5fb76.chunk.js",
+    "index.html": "/reactjs-document-expiration-report/index.html",
+    "main.85cf5c34.css.map": "/reactjs-document-expiration-report/static/css/main.85cf5c34.css.map",
+    "main.b27daefa.js.map": "/reactjs-document-expiration-report/static/js/main.b27daefa.js.map",
+    "365.15a5fb76.chunk.js.map": "/reactjs-document-expiration-report/static/js/365.15a5fb76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85cf5c34.css",
-    "static/js/main.2c706a94.js"
+    "static/js/main.b27daefa.js"
   ]
 }
